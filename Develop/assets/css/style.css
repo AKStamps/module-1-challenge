@@ -124,7 +124,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this section styles the benefits class section of the website */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -141,14 +141,10 @@ p {
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .benefit-lead h3 {
@@ -156,20 +152,14 @@ p {
     text-align: center;
 }
 
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .benefit-brand img {
@@ -178,12 +168,22 @@ p {
     max-width: 150px;
 }
 
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this sections styles the footer of the webstie */
 .footer {
     padding: 30px;
     clear: both;
