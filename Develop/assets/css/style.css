@@ -59,12 +59,17 @@ p {
     background-position: center;
 }
 
-.float-left {
+.search-engine-optimization img {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.social-media-marketing img {
+    float: left;
+    margin-right: 25px;
+}
+
+.online-reputation-management img {
     float: right;
     margin-left: 25px;
 }
