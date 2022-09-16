@@ -1,16 +1,18 @@
-# AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+# Module 1 Challenge for UNC Chapel hill Coding Boot Camp
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Project Description
+The goal of this project is to refactor existing code within a website for Horiseon Social Solution Services to meet accessibility standards and optimize site for search engines, this goal will be met with the following criteria.
+<ul>
+  <li>
+  Use semantic HTML elements and remove any non semantic elements from code
+  </li>
+  <li>
+  Add a descriptive title for the webstite
+  </li>
+  <li>
+  Add proper ALT tages for all images
+  </li>
+  <li>
+  Add proper indentation within HTML to clean up code
+  </li>
+</ul>
