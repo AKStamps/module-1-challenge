@@ -104,6 +104,24 @@ The goal of this project is to refactor existing code within a website for Horis
 
 The following screenshots show the refactored CSS code.  You can see that the sections have been moved into sequential order with the design of the web page beginning with universal elements selectors and going onward from that point.  Individual descriptive comments have been added to each section to allow ease of use for any other person viewing the code.
 
+<img src="Develop/assets/readmeimages/Refactored CSS 1.png" alt="refactored CSS screenshot 1">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 2.png" alt="refactored CSS screenshot 2">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 3.png" alt="refactored CSS screenshot 3">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 4.png" alt="refactored CSS screenshot 4">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 5.png" alt="refactored CSS screenshot 5">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 6.png" alt="refactored CSS screenshot 6">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 7.png" alt="refactored CSS screenshot 7">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 8.png" alt="refactored CSS screenshot 8">
+
+<img src="Develop/assets/readmeimages/Refactored CSS 9.png" alt="refactored CSS screenshot 9">
+
 
 
   
