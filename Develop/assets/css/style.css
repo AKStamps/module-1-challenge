@@ -1,20 +1,21 @@
+/* universal element styling selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* body element styling selector*/
 body {
     background-color: #d9dcd6;
 }
-
+/* styling selector for entire heading group */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* lines 19-43 contain styling selectors for elements within the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* styling selector for all anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* styling selector for all paragraph tags */
 p {
     font-size: 16px;
 }
-
+/* styling selector for website hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,13 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* this section styles all elements under the service class within the body of webpage */
+/* styling selector for entire services class */
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* this section styles all elements of the search engine optimization figure within the services class */
+/* style selector for the search-engine-optimization ID */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,7 +74,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* lines 78-87 style individual elements of the search-engine-optimization ID */
 #search-engine-optimization img {
     float: left;
     margin-right: 25px;
@@ -84,7 +85,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style selector for the social-media-marketing ID */
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,7 +94,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* lines 98-107 style individual elements of the social-media-marketing ID */
 #social-media-marketing img {
     float: left;
     margin-right: 25px;
@@ -104,7 +105,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style selector for online-reputation-managment ID */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,7 +114,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* lines 118-127 style individual elements of the online-reputation-managment ID */
 #online-reputation-management img {
     float: right;
     margin-left: 25px;
@@ -124,7 +125,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* this section styles the benefits class section of the website */
+/* style selector for the benefits class section of the website */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,12 +136,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* style selector for the entire benefit-lead ID */
 #benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* lines 145-154 style individual elements of the benefit-lead ID */
 #benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -151,12 +152,12 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* style selector for the entire benefit-brand ID */
 #benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* lines 161-170 style individual elements of the benefit-brand ID */
 #benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -167,12 +168,12 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* style selector for the entire benefit-cost ID */
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* lines 177-186 style individual elements of the benefit-cost ID */
 #benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
