@@ -102,7 +102,7 @@ The goal of this project is to refactor existing code within a website for Horis
 
 #### CSS
 
-The following screenshots show the refactored CSS code.  You can see that the sections have been moved into sequential order with the design of the web page beginning with universal elements selectors and going onward from that point.  Individual descriptive comments have been added to each section to allow ease of use for any other person viewing the code.
+**The following screenshots show the refactored CSS code.  You can see that the sections have been moved into sequential order with the design of the web page beginning with universal elements selectors and going onward from that point.  Individual descriptive comments have been added to each section to allow ease of use for any other person viewing the code.**
 
 <img src="Develop/assets/readmeimages/Refactored CSS 1.png" alt="refactored CSS screenshot 1">
 
@@ -121,6 +121,14 @@ The following screenshots show the refactored CSS code.  You can see that the se
 <img src="Develop/assets/readmeimages/Refactored CSS 8.png" alt="refactored CSS screenshot 8">
 
 <img src="Develop/assets/readmeimages/Refactored CSS 9.png" alt="refactored CSS screenshot 9">
+
+## Project Conclusions
+
+**After completeing this project to the best of my ability the conclusion I have come to is in two parts**
+
+The first conclusion is that semantic HTML, in normal practice, is an absolute necessity.  Not only for the purposes of search engine optimization and accessibility but for the purpose of organization.  I can only imagine the amount of time that would be required to restructre a web page of much larger propertion if it had been written in the style of the projects unsolved code.  This goes hand in hand with effective and descriptive names of class and ID tags.  Semantic HTML and proper tags combined can save a tremendous amount of time for someone needing to alter the code and also provide the proper accessibility standard while doing so.
+
+The second conclusion is that when it comes to a new project it is incredibly important to use semantic structure, proper spacing and comments from your first keystroke.  This entire challenge would obviously not have existed if it had been done this way and with the proper structure and a request to perhaps fix a link one could have beem done with this project in less than half an hour.  I will from here on out be certain to use this structure in any code that I created or alter.
 
 
 
