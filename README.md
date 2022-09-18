@@ -68,3 +68,19 @@ The goal of this project is to refactor existing code within a website for Horis
   <figcaption>Original style.CSS code screenshot 6</figcaption>
   <img src="Develop/assets/readmeimages/Original CSS Code 6.png" alt="Original CSS Code 6">
 </figure>
+
+#### Conclusions
+
+<section>
+  <p>
+      As you can see from the screenshots the HTML file uses very few semantic selectors which would not allow it to pass accessibility standards.
+    The website also does not have a descriptive name in the header and has disorganized class and ID selectors which become more apparent in the CSS file.
+    The images in the HTML file also do not have any ALT tages which will not allow them to be read by a screen reader.
+  </p>
+  <p>
+     The CSS file, although fully functional, is very disorganized and difficult to navigate due to a classes not being in sequential order with the webpage
+    and several confusing class names.  The following screenshots demonstrate the refactored code.
+  </p>
+</section>
+
+
