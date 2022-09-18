@@ -85,7 +85,20 @@ The goal of this project is to refactor existing code within a website for Horis
 
 ### Refactored Code Screenshots
 
+#### HTML
+
 <figure>
   <figcaption>This screenshot shows the refactored HTML code within the head and header sections of the webpage.  Within the head the meta tag "viewport" has been added to adjust the page to fit different device screens and a descriptive title has been added for the webpage.  Within the header semantic elements have been added to accessibility as well as a note infoming anyone viewing the code that it is the header and navigation links section of code.</figcaption>
+  <img src="Develop/assets/readmeimages/Refactored HTML 1.png" alt="Refactored HTML screenshot 1">
+</figure>
+<figure>
+  <figcaption>This screenshot shows the refactored HTML code within the hero image section and Services section of the webpage.  The hero image section remains unaltered. Within the Services section semantic elements have been added, ALT tages have been added to photos to enable screen readers and the three figure class tags have been changed to ID tags within a single class tag labeled "services" for ease of use. Comments have also been added identifying the hero image section and services section for anyone viewing the code.</figcaption>
+  <img src="Develop/assets/readmeimages/Refactored HTML 2.png" alt="Refactored HTML screenshot 2">
+</figure>
+<figure>
+  <figcaption>This screenshot shwos the refactored code HTML within the Benefits section and footer of the website.  The benefits section has been refactored in an identical way to the Services section with semantic elements, the three figure Class tags changed to ID tags within a single class called "Benefits" and the images are given ALT tags for use with a screen reader.  A comment has been added to depict the section to anyone viewing the code.  The footer section remains largly unaltered with the acception of semantic elements added and a note depicting the footer text.</figcaption>
+  <img src="Develop/assets/readmeimages/Refactored HTML 3.png" alt="Refactored HTML screenshot 3">
+</figure>
+  
   
 
