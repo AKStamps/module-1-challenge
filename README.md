@@ -83,4 +83,9 @@ The goal of this project is to refactor existing code within a website for Horis
   </p>
 </section>
 
+### Refactored Code Screenshots
+
+<figure>
+  <figcaption>This screenshot shows the refactored HTML code within the head and header sections of the webpage.  Within the head the meta tag "viewport" has been added to adjust the page to fit different device screens and a descriptive title has been added for the webpage.  Within the header semantic elements have been added to accessibility as well as a note infoming anyone viewing the code that it is the header and navigation links section of code.</figcaption>
+  
 
