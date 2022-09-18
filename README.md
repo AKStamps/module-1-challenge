@@ -46,25 +46,25 @@ The goal of this project is to refactor existing code within a website for Horis
 
 <figure>
   <figcaption>Original style.CSS code screenshot 1</figcaption>
-  
+  <img src="Develop/assets/readmeimages/Original CSS Code 1.png" alt="Original CSS Code 1">
 </figure>
 <figure>
   <figcaption>Orignial style.CSS code screenshot 2</figcaption>
-  
+  <img src="Develop/assets/readmeimages/Original CSS Code 2.png" alt="Original CSS Code 2">
 </figure>
 <figure>
   <figcaption>Original style.CSS code screenshot 3</figcaption>
-  
+  <img src="Develop/assets/readmeimages/Original CSS Code 3.png" alt="Original CSS Code 3">
 </figure>
 <figure>
   <figcaption>Original style.CSS code screenshot 4</figcaption>
-  
+  <img src="Develop/assets/readmeimages/Original CSS Code 4.png" alt="Original CSS Code 4">
 </figure>
 <figure>
   <figcaption>Orignial style.CSS code screenshot 5</figcaption>
-  
+  <img src="Develop/assets/readmeimages/Original CSS Code 5.png" alt="Original CSS Code 5">
 </figure>
 <figure>
   <figcaption>Original style.CSS code screenshot 6</figcaption>
-
+  <img src="Develop/assets/readmeimages/Original CSS Code 6.png" alt="Original CSS Code 6">
 </figure>
