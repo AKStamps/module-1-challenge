@@ -99,6 +99,13 @@ The goal of this project is to refactor existing code within a website for Horis
   <figcaption>This screenshot shwos the refactored code HTML within the Benefits section and footer of the website.  The benefits section has been refactored in an identical way to the Services section with semantic elements, the three figure Class tags changed to ID tags within a single class called "Benefits" and the images are given ALT tags for use with a screen reader.  A comment has been added to depict the section to anyone viewing the code.  The footer section remains largly unaltered with the acception of semantic elements added and a note depicting the footer text.</figcaption>
   <img src="Develop/assets/readmeimages/Refactored HTML 3.png" alt="Refactored HTML screenshot 3">
 </figure>
+
+#### CSS
+
+The following screenshots show the refactored CSS code.  You can see that the sections have been moved into sequential order with the design of the web page beginning with universal elements selectors and going onward from that point.  Individual descriptive comments have been added to each section to allow ease of use for any other person viewing the code.
+
+
+
   
   
 
