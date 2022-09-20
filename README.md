@@ -123,6 +123,14 @@ The first conclusion is that semantic HTML, in normal practice, is an absolute n
 
 The second conclusion is that when it comes to a new project it is incredibly important to use semantic structure, proper spacing and comments from your first keystroke.  This entire challenge would obviously not have existed if it had been done this way and with the proper structure and a request to perhaps fix a link one could have beem done with this project in less than half an hour.  I will from here on out be certain to use this structure in any code that I created or alter.
 
+### **Links** 
+
+ 
+
+[Deployed Github Page](https://akstamps.github.io/module-1-challenge/)
+
+[Github Repository]
+
 
 
   
