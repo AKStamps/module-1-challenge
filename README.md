@@ -129,7 +129,7 @@ The second conclusion is that when it comes to a new project it is incredibly im
 
 [Deployed Github Page](https://akstamps.github.io/module-1-challenge/)
 
-[Github Repository]
+[Github Repository](https://github.com/AKStamps/module-1-challenge.git)
 
 
 
